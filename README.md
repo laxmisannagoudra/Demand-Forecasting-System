@@ -1,5 +1,5 @@
 # Demand-Forecasting-System
-# PROJECT 2: Demand Forecasting System
+# Demand Forecasting System
 
 An AI-powered demand forecasting system that predicts product sales for retail companies using Temporal Fusion Transformer (TFT) deep learning model.
 
